@@ -16,11 +16,6 @@
     //     }
     // }
     class MiembroFamiliar {
-        // nombre:string;
-        // edad: number;
-        // poder:string;
-        // humano?: boolean;
-        // adulto: boolean;
         constructor(nombre, edad, poder, adulto, humano) {
             this.nombre = nombre;
             this.edad = edad;

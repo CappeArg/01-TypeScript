@@ -1,0 +1,10 @@
+//Función anónima autoinvocada
+
+(()=> {
+
+
+
+})();
+
+
+
